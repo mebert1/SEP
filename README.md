@@ -1,19 +1,29 @@
+#Introduction
+
 This project is a a server-based multiplayer game designed with and running on the Unity engine.
 
 The game is a freely expandable learning platorm with the purpose of popularizing the advantages of gamification in education.
+
+
 
 To run a first beta of the game, follow the steps below.
 
 
 
-Language: German
+Language: **German**
 
-Developers: Lionel Damtew, Marius Ebert, Jens Niederreiter, Elias Kupferschmitt
+Developers: 
 
-School: University of Applied Sciences Mittelhessen, Gießen, Germany (Technische Hochschule Mittelhessen)
+- Lionel Damtew
+- Marius Ebert
+- Jens Niederreiter
+- Elias Kupferschmitt
+
+School: University of Applied Sciences Mittelhessen, Gießen, Germany (*Technische Hochschule Mittelhessen*)
 
 
 
+_____
 
 
 
