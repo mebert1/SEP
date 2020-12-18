@@ -23,6 +23,10 @@ School: University of Applied Sciences Mittelhessen, Gießen, Germany (*Technisc
 
 
 
+Wiki: https://wiki.thm.de/SWT-P_SS_2018_Thunderstorm_Entertainment
+
+
+
 _____
 
 
